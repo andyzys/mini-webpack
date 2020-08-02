@@ -1,0 +1,12 @@
+{
+  "include": [
+    "bundle.ts"
+  ],
+  "compileOnSave": true,
+  "compilerOptions": {
+    // "target": "ES5",
+    // "module": "commonjs",
+    // "outDir": "./dist",
+    // "outFile": "budle.dist.js"
+  }
+}
